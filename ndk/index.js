@@ -6,7 +6,7 @@
                 name: "Model",
                 version: "1.0.0",
                 description: "C# 生成 Model",
-                name: "/ndx/netnr/netnr_model.js"
+                name: "/ndx/netnr/model.js"
             }
         ]
     }
